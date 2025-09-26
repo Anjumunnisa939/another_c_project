@@ -68,22 +68,22 @@
 //     }
 //     return 0;
 // }
-#include <stdio.h>
-int main(){
-    int a;
-    printf("enter your character :\n");
-    scanf("%d",&a);
-    for(int i =1;i<=a;i++){
-        for(int j=1;j<=i;j++){
-            int a=1;
-            printf("%d\n",a+65);
-            a++;
+// #include <stdio.h>
+// int main(){
+//     int a;
+//     printf("enter your character :\n");
+//     scanf("%d",&a);
+//     for(int i =1;i<=a;i++){
+//         for(int j=1;j<=i;j++){
+//             int a=1;
+//             printf("%d\n",a+65);
+//             a++;
     
 
         
-    }
-        printf("\n");
+//     }
+//         printf("\n");
 
-    }
-    return 0;
-}
+//     }
+//     return 0;
+// } 

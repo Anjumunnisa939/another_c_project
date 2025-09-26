@@ -40,7 +40,7 @@ int main(){
             printf("your number is odd\n");
         }
           a=a-3;
-          break;
+         // break;
 
     }
     return 0;
