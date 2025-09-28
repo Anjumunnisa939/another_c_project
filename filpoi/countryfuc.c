@@ -16,7 +16,13 @@ void england(){
     return;
 
 }
-int main(){
+void afganistan(){
+    printf("i am in afganistan\n");
     england();//call england function
+    return;
+}
+
+int main(){
+    afganistan();//call england function
     return 0;
 }
