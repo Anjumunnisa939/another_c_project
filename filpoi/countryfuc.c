@@ -17,7 +17,7 @@ void england(){
 
 }
 void afganistan(){
-    printf("i am in afganistan\n");
+    printf("This is afganistan\n");
     england();//call england function
     return;
 }
