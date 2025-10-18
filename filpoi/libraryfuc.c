@@ -15,6 +15,7 @@
 
 
 // this  power of a number code
+
 #include <stdio.h>
 #include <math.h>
 int main(){
@@ -26,7 +27,7 @@ int main(){
     scanf("%d",&b);
     int root = pow(a,b);
     printf("the square of the number is %d",root);
+    float tri = cos(a);
+    printf("\n the cos of the number is %f",tri);
     return 0;
-
-
 }

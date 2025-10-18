@@ -12,16 +12,13 @@ return;
 void england(){
     printf("i am in england\n");
     austrialia();//call austrialia function
-    
     return;
-
 }
 void afganistan(){
-    printf("This isE afganistan\n");
+    printf("This is  afganistan\n");
     england();//call england function
     return;
 }
-
 int main(){
     afganistan();//call england function
     return 0;
