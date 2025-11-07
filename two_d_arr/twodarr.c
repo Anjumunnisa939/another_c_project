@@ -29,4 +29,20 @@
 #include <stdio.h>
 int main(){
     
+            int arr[2][2];
+    for(int i=0;i<2;i++){
+        for(int j=0;j<2;j++){
+            int arr[i][j];
+            
+             printf("enter the values\n");
+        scanf("%d ",&arr);
+         }
+    
+        }
+        for(int i=0;i<2;i++){
+        for(int j=0;j<2;j++){
+printf("the values of [%d][%d]=[%d]\n",i,j,arr[i][j]);
+        }
+    }
+    return 0;
 }
