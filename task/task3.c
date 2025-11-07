@@ -1,23 +1,5 @@
 // //the question is get set of pairs  of an elements in array is equal to 12
-// #include <stdio.h>
-// int main(){
-//     int sum=0;
-//     int x;
-//     printf("enter the value of x\n");
-//     scanf("%d",&x);
-//     int target =12;
-//      int arr[x];
-//      for(int i=1;i<=x;i++){
-//         scanf("%d\n",&arr[i]);
-//      }
-//      for(int i=1;i<=x;i++){
-//         sum =arr[i]+
-//         if(arr[i]=target){
-//             printf("the number")
-//         }
-//      }
-//      return 0;
-// }
+
 #include <stdio.h>
 
 int main() {
